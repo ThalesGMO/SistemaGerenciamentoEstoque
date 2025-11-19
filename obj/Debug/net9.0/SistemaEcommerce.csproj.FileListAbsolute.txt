@@ -1,0 +1,14 @@
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\bin\Debug\net9.0\SistemaEcommerce.exe
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\bin\Debug\net9.0\SistemaEcommerce.deps.json
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\bin\Debug\net9.0\SistemaEcommerce.runtimeconfig.json
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\bin\Debug\net9.0\SistemaEcommerce.dll
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\bin\Debug\net9.0\SistemaEcommerce.pdb
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\obj\Debug\net9.0\SistemaEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\obj\Debug\net9.0\SistemaEcommerce.AssemblyInfoInputs.cache
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\obj\Debug\net9.0\SistemaEcommerce.AssemblyInfo.cs
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\obj\Debug\net9.0\SistemaEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\obj\Debug\net9.0\SistemaEcommerce.dll
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\obj\Debug\net9.0\refint\SistemaEcommerce.dll
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\obj\Debug\net9.0\SistemaEcommerce.pdb
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\obj\Debug\net9.0\SistemaEcommerce.genruntimeconfig.cache
+C:\Users\thale\Desktop\Códigos\SistemaEcommerce\obj\Debug\net9.0\ref\SistemaEcommerce.dll
